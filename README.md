@@ -36,7 +36,7 @@ Station Analysis
  9. Query the last 12 months of temperature observation data for this station.
 10. Plot the results as a histogram with `bins=12`.
 
-  ![tempFreq.png](temFreq.png)
+  ![tempFreq.png](tempFreq.png)
 
 
   
