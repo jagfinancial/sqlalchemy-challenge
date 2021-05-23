@@ -33,7 +33,7 @@ Station Analysis
  9. Query the last 12 months of temperature observation data for this station.
 10. Plot the results as a histogram with `bins=12`.
 
-  ![images.precip1](Images.precip1.png)
+  ![precip1.png](precip1.png)
 
 
   
