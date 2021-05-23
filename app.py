@@ -131,7 +131,7 @@ def Start_date(start_date):
         start_date_tobs_dict["min_temp"] = min
         start_date_tobs_dict["avg_temp"] = avg
         start_date_tobs_dict["max_temp"] = max
-        start_date_tobs.append(start_date_tobs_dict) 
+        start_date_tobs.append(start_date_tobs) 
 
     return jsonify(start_date_tobs)
 
@@ -156,7 +156,7 @@ def start_end_date(start_date, end_date):
         start_end_tobs_dict["min_temp"] = min
         start_end_tobs_dict["avg_temp"] = avg
         start_end_tobs_dict["max_temp"] = max
-        start_end_tobs.append(start_end_tobs_dict) 
+        start_end_tobs.append(start_end_tobs) 
     
 
     return jsonify(start_end_tobs)
