@@ -21,6 +21,9 @@ Precipitation Analysis
  6. Plot the results using the DataFrame `plot` method.
  7. Use Pandas to print the summary statistics for the precipitation data.
 
+  ![precip1.png](precip1.png)
+
+
 Station Analysis
  1. Design a query to calculate the total number of stations in the dataset.
  2. Design a query to find the most active stations (i.e. which stations have the most rows?).
@@ -33,7 +36,7 @@ Station Analysis
  9. Query the last 12 months of temperature observation data for this station.
 10. Plot the results as a histogram with `bins=12`.
 
-  ![precip1.png](precip1.png)
+![tempfreq.png](tempfreq.png)
 
 
   
